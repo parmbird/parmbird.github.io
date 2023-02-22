@@ -1,0 +1,27 @@
+body {
+    background-color: green;
+    box-sizing: border-box;
+}
+/* h1 {
+    font-family: 'Helvetica';
+}
+*/
+
+#wordmark {
+    font-family: 'Helvetica';
+    font-size: 1em;
+    padding-left: 20px;
+}
+#cta {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: 'Helvetica';
+    font-size: 4em;
+}
+#portfolio {
+    background-color: yellow;
+    width: 100%;
+    height: auto;
+
+}
